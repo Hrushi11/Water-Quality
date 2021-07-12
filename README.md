@@ -10,6 +10,9 @@ care costs outweigh the costs of undertaking the interventions.
 
 Visit the blog here - [Water Quality](https://hrushi11.github.io/Heights-for-AI/Water_Quality/)
 
+**Insights of the features** :
+![IMG](https://i.ibb.co/HY4HZxm/d.png)
+
 ## Content
 
 1. pH value:
@@ -48,6 +51,3 @@ The turbidity of water depends on the quantity of solid matter present in the su
 
 10. Potability:
 Indicates if water is safe for human consumption where 1 means Potable and 0 means Not potable.
-
-**Insights of the features** :
-![IMG](https://i.ibb.co/HY4HZxm/d.png)
